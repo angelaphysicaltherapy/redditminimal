@@ -7,6 +7,7 @@ function App() {
         <p>
           Welcome to a minimal version of Reddit!
         </p>
+        <button>Refrech</button>
         
       </header>
     </div>
