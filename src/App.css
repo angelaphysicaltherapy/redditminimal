@@ -1,5 +1,6 @@
 .App {
   text-align: center;
+  background-color:darkseagreen;
 }
 
 .App-logo {
@@ -14,8 +15,8 @@
 }
 
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-image: url("https://picsum.photos/seed/picsum/400/100");
+  min-height: 50vh;
   display: flex;
   flex-direction: column;
   align-items: center;
