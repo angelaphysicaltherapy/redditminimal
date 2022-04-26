@@ -28,7 +28,7 @@ function App() {
       </div>
         
         <div class="d-grid gap-2 col-4 mx-auto">
-            <button class="btn btn-primary btn-lg" type="button"onClick={getPost}>Refrech</button>
+            <button class="btn btn-warning btn-lg" type="button"onClick={getPost}>Refresh</button>
         </div>
       <div id="meme-container">
         {

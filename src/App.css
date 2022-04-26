@@ -71,7 +71,7 @@
   transition: 200ms;
 }
 
-img:hover{
+#meme-container div img:hover{
   border-radius: 0px;
   transform: scale(1.2);
 }
